@@ -6,6 +6,8 @@ public class GitTest {
 		
 		System.out.println("Hi");
 		System.out.println("Start Git");
+		System.out.println("Git");
+		System.out.println("End Git");
 		
 	}
 
