@@ -21,7 +21,9 @@ public class Main {
 		new Lion().run();
 
 	}
-	
+	public void abc() {
+		
+	}
 	public void test() {
 		System.out.println("test#test");
 	}
